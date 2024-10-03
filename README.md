@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @cepdizei
 - 👀 I’m interested in modding android and linux programs
 - 🌱 I’m currently learning java, js, sql
+- 💞️ I’m looking to collaborate on projects, I find interesting
+- 📬 You can reach me via cepdizei@gmail.com
 - ⚡ Fun fact: I made my first program when I was 12y/o
 
 <!---
