@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @cepdizei
+- ✨ Hi, I’m @cepdizei
 - 👀 I’m interested in modding android and linux programs
-- 🌱 I’m currently learning java, js, sql
-- 💞️ I’m looking to collaborate on projects, I find interesting
-- 📬 You can reach me via cepdizei@gmail.com
-- ⚡ Fun fact: I made my first program when I was 12y/o
+- 💯 I’m currently learning java, js, sql
+- 💕 I’m looking to collaborate on projects, I find interesting
+- 💻 How to reach me: cepdizei@gmail.com
+- 🤭 Fun fact: I made my first program when I was 12y/o
 
 <!---
 cepdizei/cepdizei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
